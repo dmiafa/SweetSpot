@@ -1,8 +1,8 @@
 [submodule "jquery"] path = lib/jquery
 
-# [submodule "js/lib/jquery"]
-# 	path = js/lib/jquery
-# 	url = git://github.com/jquery/jquery.git
+[submodule "js/lib/jquery"]
+	path = js/lib/jquery
+	url = git://github.com/jquery/jquery.git
 # [submodule "externals/jquery"]
 # 	path = externals/jquery
 # 	url = git://github.com/jquery/jquery.git
